@@ -1,1 +1,1 @@
-![Image 1 Description](images/Homepage.png)
+![Image 1 Description](Images/Homepage.png)
