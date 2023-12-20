@@ -1,0 +1,73 @@
+/* BatchTimingsScreen.css */
+/* .batch-timings-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  } */
+
+  .batch-timings-container{
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 500px;
+    width: 100%; /* Adjust as needed */
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+
+  .batch-options {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+
+  .batch-option {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .batch-option:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .selected {
+    background-color: #a8dadc;
+    border-color: #457b9d;
+    color: #457b9d;
+  }
+  
+  .proceed-button {
+    display: block;
+    margin: 20px auto 0; /* Adjust the top margin to suit your layout */
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #457b9d;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  .message{
+    font-size: 12.5px;
+    text-align: center;
+    font-style: italic;
+  }
+
+  .note{
+    color: red;
+  }
+  
+  .proceed-button:hover {
+    background-color: #1d3557;
+  }

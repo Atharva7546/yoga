@@ -1,0 +1,12 @@
+.App {
+  /* text-align: center; */
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  height: 100vh;
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-image: url('./assets/yoga2.jpg');
+  background-size: cover;
+  background-position: center;
+}
