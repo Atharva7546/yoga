@@ -1,1 +1,7 @@
 ![Image 1 Description](Images/Homepage.png)
+![Image 1 Description](Images/Registration.png)
+![Image 1 Description](Images/AgeError.png)
+![Image 1 Description](Images/BatchTimings.png)
+![Image 1 Description](Images/Enroll.png)
+![Image 1 Description](Images/PaymentSuccess.png)
+![Image 1 Description](Images/Db.jpg)
