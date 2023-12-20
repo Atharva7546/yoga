@@ -1,1 +1,1 @@
-![Description of Image](path/to/image.png)
+![Image 1 Description](images/Homepage.png)
